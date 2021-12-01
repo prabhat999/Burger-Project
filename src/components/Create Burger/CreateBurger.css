@@ -1,0 +1,42 @@
+.card {
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e591918a !important;
+  border: 2px solid black !important;
+}
+
+.card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 300px;
+}
+
+.card-body {
+  background-color: powderblue;
+}
+#submitbtn {
+  border: 2px solid black;
+  background-color: red;
+  color: #ffff06;
+  border-radius: 0px !important;
+}
+#submitbtn:hover {
+  border: 2px solid black;
+  background-color: #46b563;
+  color: #ffff06;
+}
+#burgerToppings {
+  height: 40px;
+  width: 400px;
+}
+p {
+  color: red;
+}
+
+#alert {
+  color: green;
+}
